@@ -1,0 +1,31 @@
+[general]
+
+name=TO_data_editing
+
+description=QGIS plugin do edycji danych oświetlenia (TO).
+
+about=null
+ 
+ 
+version=0.1.0
+
+qgisMinimumVersion=3.0
+
+category=Plugins
+
+icon=img/TO_data_editing_ICON.png
+
+author=Piotr Michałowski, Olsztyn, woj. W-M, Poland
+
+email=piotrm35@hotmail.com
+
+homepage=https://github.com/piotrm35/TO_data_editing
+repository=https://github.com/piotrm35/TO_data_editing
+tracker=https://github.com/piotrm35/TO_data_editing/issues
+
+experimental=True
+
+deprecated=False
+
+tags=TO
+
